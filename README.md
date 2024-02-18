@@ -1,3 +1,5 @@
+![Header](./Header.png)
+
 <h1>Hello 👋 My name is Joseph</h1>
 
 and I am Fullstack Software Developer with 6+ years of experience
@@ -17,12 +19,11 @@ and I am Fullstack Software Developer with 6+ years of experience
 - 📫 You can contact me at **joes@joesexperiences.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/joesexperiences" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joesexperiences" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/joseph-maloch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-maloch" height="30" width="40" /></a>
-<a href="https://instagram.com/joesexperiences" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joesexperiences" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@JoesExperiences" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joesexperiences" height="30" width="40" /></a>
-</p>
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30">](https://twitter.com/joesexperiences)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30">](https://linkedin.com/in/joseph-maloch)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30">](https://instagram.com/joesexperiences)&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="30">](https://www.youtube.com/@JoesExperiences)
 
 <h3 align="left">Skills</h3>    
 
