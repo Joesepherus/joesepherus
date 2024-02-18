@@ -2,7 +2,7 @@
 
 <h1>Hello 👋 My name is Joseph</h1>
 
-and I am Fullstack Software Developer with 6+ years of experience
+and I am a Fullstack Software Developer with 6+ years of experience
 
 - 🚀 I work **fast with no bs**
 
