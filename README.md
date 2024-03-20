@@ -10,11 +10,11 @@ and I am a Fullstack Software Developer with 6+ years of experience
 
 - 🤝 I’m currently open to **new projects**
 
-- 🌱 I’m currently learning about **AI**
+- 🌱 I’m currently learning **Smart Contract Development**
 
 - 💬 Chat me **on my socials**
 
-- 👨🏻‍💻 Check out my personal blog at **[joesexperiences.com](https://joesexperiences.com)**
+- 👨🏻‍💻 Check out my **personal blog** at **[joesexperiences.com](https://joesexperiences.com)**
 
 - 📫 You can contact me at **joes@joesexperiences.com**
 
