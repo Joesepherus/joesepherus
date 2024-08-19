@@ -12,6 +12,8 @@ and I am a Fullstack Software Developer with 6+ years of experience
 
 - 🌱 I’m currently learning **Smart Contract Development**
 
+- 🌱 Also currently learning **Go** for developing fast websites
+
 - 💬 Chat me **on my socials**
 
 - 👨🏻‍💻 Check out my **personal blog** at **[joesexperiences.com](https://joesexperiences.com)**
