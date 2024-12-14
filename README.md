@@ -10,7 +10,7 @@ and I am a Fullstack Software Developer with 6+ years of experience
 
 - 🤝 I’m currently open to **new projects**
 
-- 🌱 I’m currently learning **Smart Contract Development**
+- 🌱 I’m currently learning **Smart Contract Auditing**
 
 - 🌱 Also currently learning **Go** for developing fast websites
 
